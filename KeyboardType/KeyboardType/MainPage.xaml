@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:KeyboardType"
+             x:Class="KeyboardType.MainPage"
+             xmlns:renderer="clr-namespace:KeyboardType.CustomRenderers">
+
+    <StackLayout
+        HorizontalOptions="Center"
+        VerticalOptions="Center"
+        BackgroundColor="BlueViolet">
+        <renderer:CustomEntry x:Name="entryUsername"
+                              Placeholder="Username"
+                              Completed="entryUsername_Completed"
+                              PlaceholderColor="Black"
+                              ReturnType="Next"/>
+        <renderer:CustomEntry x:Name="entryPassword"
+                              Placeholder="Password"
+                              PlaceholderColor="Black"
+                              Completed="entryPassword_Completed"
+                              IsPassword="True"
+                              ReturnType="Send"/>
+    </StackLayout>
+
+</ContentPage>

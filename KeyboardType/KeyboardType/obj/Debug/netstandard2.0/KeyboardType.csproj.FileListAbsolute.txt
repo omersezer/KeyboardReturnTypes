@@ -1,0 +1,12 @@
+C:\VSProjects\KeyboardType\KeyboardType\KeyboardType\bin\Debug\netstandard2.0\KeyboardType.deps.json
+C:\VSProjects\KeyboardType\KeyboardType\KeyboardType\bin\Debug\netstandard2.0\KeyboardType.dll
+C:\VSProjects\KeyboardType\KeyboardType\KeyboardType\bin\Debug\netstandard2.0\KeyboardType.pdb
+C:\VSProjects\KeyboardType\KeyboardType\KeyboardType\obj\Debug\netstandard2.0\KeyboardType.csprojAssemblyReference.cache
+C:\VSProjects\KeyboardType\KeyboardType\KeyboardType\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\VSProjects\KeyboardType\KeyboardType\KeyboardType\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\VSProjects\KeyboardType\KeyboardType\KeyboardType\obj\Debug\netstandard2.0\KeyboardType.csproj.CoreCompileInputs.cache
+C:\VSProjects\KeyboardType\KeyboardType\KeyboardType\obj\Debug\netstandard2.0\KeyboardType.AssemblyInfoInputs.cache
+C:\VSProjects\KeyboardType\KeyboardType\KeyboardType\obj\Debug\netstandard2.0\KeyboardType.AssemblyInfo.cs
+C:\VSProjects\KeyboardType\KeyboardType\KeyboardType\obj\Debug\netstandard2.0\XamlC.stamp
+C:\VSProjects\KeyboardType\KeyboardType\KeyboardType\obj\Debug\netstandard2.0\KeyboardType.dll
+C:\VSProjects\KeyboardType\KeyboardType\KeyboardType\obj\Debug\netstandard2.0\KeyboardType.pdb
